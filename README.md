@@ -27,22 +27,21 @@
  
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
-<details>
-    <summary> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Подробнее обо мне </summary>
-    <p>
-        На данный момент учусь в вузе и дополнительно обучаюсь в школе цифровых технологий от Сбера. Стажируюсь на вакансию: "Системный аналитик bpm платформ".
-Экстраверт по жизни, активно участвую в различных мероприятиях.
-В настоящее время я вношу свой вклад в мир открытого кода, чтобы применить на практике знания, полученные во время учебы.
-    </p>
-    <ul>
-        <li>🎓 Специальность: Data Analysts, System Analysys</li>
-        <li>🎯 Вношу свой вклад и создаю проекты с открытым исходным кодом</li>
-        <li>📚 Изучаю Python | Алгоритмы | PL/pgSQL  | T-SQL | PostgreSQL</li>
-        <li>💬 Открывала кампус IT School 21 в Челябинске.</li>
-        <li>🏐 Играю в настольный теннис и волейбол, когда есть возможность.</li>
-        <li>🎮 Известна под ником belgravt.</b></li>
-    </ul>
-</details>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Подробнее обо мне </summary>
+
+<br> На данный момент учусь в вузе и дополнительно обучаюсь в школе цифровых технологий от Сбера. </br>
+<br> Стажируюсь на вакансию: "Системный аналитик bpm платформ". </br>
+
+<br> Экстраверт по жизни, активно участвую в различных мероприятиях.</br>
+<br> В настоящее время я вношу свой вклад в мир открытого кода, чтобы применить на практике знания, полученные во время учебы.</br>
+
+<li>🎓 Специальность: Data Analysts, System Analysys</li>
+<li>🎯 Вношу свой вклад и создаю проекты с открытым исходным кодом</li>
+<li>📚 Изучаю Python | Алгоритмы | PL/pgSQL  | T-SQL | PostgreSQL</li>
+<li>💬 Открывала кампус IT School 21 в Челябинске.</li>
+<li>🏐 Играю в настольный теннис и волейбол, когда есть возможность.</li>
+<li>🎮 Известна под ником belgravt.</b></li>
+
 
 
 
@@ -50,7 +49,7 @@
 
 <!-----Contribution figures------>
 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=alinazhabarova&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
 
@@ -80,7 +79,7 @@
   &emsp;
 </p>
 
-### 👉 Databases & Cloud Hosting
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Databases & Cloud Hosting%:
 <p align="left">
   &emsp;
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
@@ -90,7 +89,7 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a> 
  </p>
 
- ### 👉 Software & Tools
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Software & Tools:
  
 <p>
   &emsp;
